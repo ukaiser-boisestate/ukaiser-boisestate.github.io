@@ -2,6 +2,8 @@
 
 My address: Department of Mathematics, Boise State University, 1900 University Drive, Boise, Idaho 83725
 
+email: ukaiser@boisestate.edu
+
 My research interests are in Geometric topology. 
 
 You can use the [editor on GitHub](https://github.com/ukaiser-boisestate/ukaiser.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
