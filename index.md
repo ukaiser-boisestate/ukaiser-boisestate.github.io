@@ -4,7 +4,9 @@ My address: Department of Mathematics, Boise State University, 1900 University D
 
 email: ukaiser@boisestate.edu
 
-My research interests are in Geometric topology. 
+My research interests are in Geometric topology. I consider myself a Differential topologist interested in all problems related to manifolds. These are questions of immersions and embeddings, so in low dimensional topology I am interested in link theory and associated geometric and quantum invariants. 
+
+
 
 You can use the [editor on GitHub](https://github.com/ukaiser-boisestate/ukaiser.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
