@@ -4,7 +4,8 @@
 
 **email:** ukaiser@boisestate.edu
 
-My research interests are in **Geometric topology**. I consider myself a Differential Topologist interested in all problems related to manifolds. These are questions of immersions and embeddings. In low dimensional topology I am interested in link theory and associated geometric and quantum invariants. I am also interested in all aspects of *Quantum Computing*.
+My research interests are in **Geometric topology**. I consider myself a Differential Topologist interested in all problems related to manifolds. These are questions of immersions and embeddings. I am interested in link theory in manifolds and in low dimensions in associated geometric and quantum invariants. I am also interested in all aspects of *Quantum Computing*. Problems I am presently working on: 1. Catgorification of invariants of links in 3-manifolds (LMO-invariant);
+2. Computation of colored Jones and Kashaev invariants (joint with Rama Mishra)
 
 ## Recent presentations
 
