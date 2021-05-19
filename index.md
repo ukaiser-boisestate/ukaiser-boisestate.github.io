@@ -9,7 +9,7 @@ My research interests are in **Geometric topology**. I consider myself a Differe
 ## Recent presentations
 
 1. Rokhlin seminar (St. Petersburg, Russia, 05-17-2021) [A survey of Bar-Natan skein theory](https://drive.google.com/file/d/18StDlbNuTrOg1DyzrLaZobfdMbzG5Atd/view?usp=sharing)
-2. Geomtric topology seminar (Moscow, Russia, 04-30-2021) [String topology and homotopy skein modules](https://www.youtube.com/watch?v=HDbbVX3TomE)
+2. Geometric topology seminar (Moscow, Russia, 04-30-2021) [String topology and homotopy skein modules](https://www.youtube.com/watch?v=HDbbVX3TomE)
 3. Joint AMS/MAA Meeting (2021, online, 01-06-2021) [Kashaev and extended Kauffman summation](https://www.jointmathematicsmeetings.org//meetings/national/jmm2021/2247_program_ss26.html); [slides](https://drive.google.com/file/d/1CS36RbDtY9m2nw4DXw8tBoesvfC84UwJ/view?usp=sharing)
 4. Knots in Washington XLIX (Washington DC, 02-09-2020) [Kashaev invariant and Kauffman states](https://home.gwu.edu/~przytyck/knots/KnotsInWashington-XLIX.html); [abstract](https://home.gwu.edu/~przytyck/knots/KiW-XLIX_Abstracts.html#abstract4)
 
