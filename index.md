@@ -1,8 +1,8 @@
 # Uwe Kaiser's research page
 
-My address: Department of Mathematics, Boise State University, 1900 University Drive, Boise, Idaho 83725
+**My address:** Department of Mathematics, Boise State University, 1900 University Drive, Boise, Idaho 83725
 
-email: ukaiser@boisestate.edu
+**email:** ukaiser@boisestate.edu
 
 My research interests are in **Geometric topology**. I consider myself a Differential Topologist interested in all problems related to manifolds. These are questions of immersions and embeddings. In low dimensional topology I am interested in link theory and associated geometric and quantum invariants. 
 
