@@ -18,6 +18,8 @@ My research interests are in **Geometric topology**. I consider myself a Differe
 
 to be updated
 
-## Papers submitted/ArXiv
+## ArXiv
 
-[ArXiv link](https://arxiv.org/search/math?searchtype=author&query=Kaiser%2C+U)
+1. [Papers submitted](https://arxiv.org/search/math?searchtype=author&query=Kaiser%2C+U)
+2. [Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg1=RVRI&s1=256631&pg3=authreviews) 
+
