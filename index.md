@@ -21,6 +21,7 @@ to be updated
 
 ## ArXiv & MATH Reviews
 
-1. [Papers submitted](https://arxiv.org/search/math?searchtype=author&query=Kaiser%2C+U)
-2. [Math Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg1=RVRI&s1=256631&pg3=authreviews) 
+1. [ArXiv Papers](https://arxiv.org/search/math?searchtype=author&query=Kaiser%2C+U)
+2. [My Papers reviewed in Math Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg4=AUCN&s4=Kaiser%2C+Uwe&co4=AND&pg5=TI&s5=&co5=AND&pg6=PC&s6=&co6=AND&pg7=ALLF&s7=&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Search) 
+3. [My Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg1=RVRI&s1=256631&pg3=authreviews) 
 
