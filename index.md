@@ -40,7 +40,7 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 21. [Immersions in codimension 1 up to regular homotopy](https://link.springer.com/article/10.1007/BF01194027); Archiv der Mathematik, Vol. 51, 1998, 371-377
 
 *STEM Education research:*
-(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional?; Studies in Higher Education, July 2015
+[(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional? Documenting STEM student professional identity development; Studies in Higher Education, July 2015
 
 
 ## ArXiv & MATH Reviews & etc
