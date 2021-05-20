@@ -18,6 +18,9 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 ## Publications
 
 1. [A short survey of quantum computing](https://www.worldscientific.com/doi/abs/10.1142/S0218216517410048); Journal of Knot Theory and it Ramifications 26, 2017, no.3, 19 pp.
+2. [On the construction of generalized skein modules](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-doi-10_4064-bc100-0-8); Knots in Poland III, Part 1, Banach Center Publications 100, Polish Acad. Sci. Inst. Math., Warsaw, 2014
+3. [Frobenius algebras and skein modules of surfaces in 3-manifolds]
+
 
 
 
