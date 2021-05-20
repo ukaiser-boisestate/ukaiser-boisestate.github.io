@@ -20,7 +20,7 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 1. [A short survey of quantum computing](https://www.worldscientific.com/doi/abs/10.1142/S0218216517410048); Journal of Knot Theory and it Ramifications 26, 2017, no.3, 19 pp.
 2. [On the construction of generalized skein modules](http://pldml.icm.edu.pl/pldml/element/bwmeta1.element.bwnjournal-article-doi-10_4064-bc100-0-8); Knots in Poland III, Part 1, Banach Center Publications 100, Polish Acad. Sci. Inst. Math., Warsaw, 2014
 3. [Frobenius algebras and skein modules of surfaces in 3-manifolds](https://www.impan.pl/pl/wydawnictwa/banach-center-publications/all/85//85977/frobenius-algebras-and-skein-modules-of-surfaces-in-3-manifolds); Algebraic Topology – old and new, 59-81, Banach Center Publications 85, Polish Acad. Sci. Inst. Math., Warsaw, 2009
-4. [(with Nikos Apostolakis) Kauffman stae sums and bracket deformation]
+4. [(with Nikos Apostolakis) Kauffman state sums and bracket deformation]
 5. [Link bordism skein modules]
 6. [Quantum deformations of fundamental groups of oriented 3-manifolds]
 7. [Deformation of string topology into homotopy skein modules]
@@ -33,8 +33,10 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 14. [Strong bandsum and dichromatic invariants]
 15. [Bands, tangles and linear skein equivalence]
 16. [Link homotopy in R^3 and S^3]
-
-
+17. [(with Li Banghe) On the reflection of immersions in Euclidean space]
+18. Verschlingungsabbildungen im Euklidischen Raum, PhD thesis University of Siegen, 1989
+19. [(with Li Banghe) Enumeration of immersions of m-manifolds in (2m-2)-manifolds]
+20. [Immersions in codimension 1 up to regular homotopy] 
 
 
 ## ArXiv & MATH Reviews
