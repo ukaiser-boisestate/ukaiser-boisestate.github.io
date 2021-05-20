@@ -17,7 +17,7 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 
 ## Publications
 
-1. [23.	A short survey of quantum computing] Journal of Knot Theory and it Ramifications 26, 2017, no.3, 19 pp.
+1. [A short survey of quantum computing](https://www.worldscientific.com/doi/abs/10.1142/S0218216517410048); Journal of Knot Theory and it Ramifications 26, 2017, no.3, 19 pp.
 
 
 
