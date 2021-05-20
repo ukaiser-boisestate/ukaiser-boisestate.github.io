@@ -1,4 +1,4 @@
-# Uwe Kaiser's research page
+# Uwe Kaiser's personal page
 
 **My address:** Department of Mathematics, Boise State University, 1900 University Drive, Boise, Idaho 83725
 
@@ -6,7 +6,7 @@
 
 My research interests are in **Geometric topology**. I consider myself a Differential Topologist interested in all problems related to manifolds. These are questions of immersions and embeddings. I am interested in link theory in manifolds and in low dimensions in associated geometric and quantum invariants. I am also interested in all aspects of **Quantum Computing**. Here are some **questions** I am presently working on: Categorification of invariants of links in 3-manifolds (LMO-invariant); Skein modules; Computation of colored Jones and Kashaev invariants for certain familes of links (joint with [Rama Mishra](https://ramamishrasite.wordpress.com/))
 
-## Recent presentations
+## Selected presentations
 
 1. Rokhlin seminar (St. Petersburg, Russia, 05-17-2021) [A survey of Bar-Natan skein theory](https://drive.google.com/file/d/18StDlbNuTrOg1DyzrLaZobfdMbzG5Atd/view?usp=sharing)
 2. Geometric topology seminar (Moscow, Russia, 04-30-2021) [String topology and homotopy skein modules](https://www.youtube.com/watch?v=HDbbVX3TomE)
@@ -17,7 +17,9 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 
 ## Publications
 
-to be updated
+1. [23.	A short survey of quantum computing] Journal of Knot Theory and it Ramifications 26, 2017, no.3, 19 pp.
+
+
 
 ## ArXiv & MATH Reviews
 
