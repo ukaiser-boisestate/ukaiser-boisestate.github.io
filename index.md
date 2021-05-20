@@ -40,7 +40,7 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 21. [Immersions in codimension 1 up to regular homotopy](https://link.springer.com/article/10.1007/BF01194027); Archiv der Mathematik, Vol. 51, 1998, 371-377
 
 *STEM Education research:*
-[(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional? Documenting STEM student professional identity development; Studies in Higher Education, July 2015
+[(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional? Documenting STEM student professional identity development; Studies in Higher Education](https://www.tandfonline.com/doi/full/10.1080/03075079.2015.1070819), July 2015
 
 
 ## ArXiv & MATH Reviews & etc
@@ -48,5 +48,5 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 1. [ArXiv Papers](https://arxiv.org/search/math?searchtype=author&query=Kaiser%2C+U)
 2. [My Papers reviewed in Math Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg4=AUCN&s4=Kaiser%2C+Uwe&co4=AND&pg5=TI&s5=&co5=AND&pg6=PC&s6=&co6=AND&pg7=ALLF&s7=&co7=AND&dr=all&yrop=eq&arg3=&yearRangeFirst=&yearRangeSecond=&pg8=ET&s8=All&review_format=html&Submit=Search) 
 3. [My Reviews](https://mathscinet-ams-org.libproxy.boisestate.edu/mathscinet/search/publications.html?pg1=RVRI&s1=256631&pg3=authreviews) 
-4. [Selected Woeks](https://works.bepress.com/uwe_kaiser/), Boise State University
+4. [Selected Works](https://works.bepress.com/uwe_kaiser/), Boise State University
 
