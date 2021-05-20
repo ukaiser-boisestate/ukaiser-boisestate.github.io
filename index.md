@@ -39,8 +39,8 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 20. [(with Li Banghe) Enumeration of immersions of m-manifolds in (2m-2)-manifolds](https://link.springer.com/chapter/10.1007%2FBFb0081475); in Differential Topology, Proceedings, Siegen 1987, Lecture Notes in Mathematics Vol. 1350, Springer Verlag 1988, 171-188
 21. [Immersions in codimension 1 up to regular homotopy](https://link.springer.com/article/10.1007/BF01194027); Archiv der Mathematik, Vol. 51, 1998, 371-377
 
-*STEM Education research:* [(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional? The Developments and Results of a Measure of STEM student Professional Identity]
-(https://www.researchgate.net/publication/280837450_Am_I_a_STEM_professional_Documenting_STEM_student_professional_identity_development); Studies in Higher Education, July 2015
+*STEM Education research:*
+[(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional?] (https://www.researchgate.net/publication/280837450_Am_I_a_STEM_professional_Documenting_STEM_student_professional_identity_development); Studies in Higher Education, July 2015
 
 
 ## ArXiv & MATH Reviews & etc
