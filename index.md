@@ -35,7 +35,7 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 16. [Bands, tangles and linear skein theory](https://link.springer.com/article/10.1007/BF02568409); Manuscripta Mathematica 71, 1991, 317-336
 17. [Link homotopy in R^3 and S^3](https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-151/issue-2/Link-homotopy-in-bf-R3-and-S3/pjm/1102637081.full); Pacific Journal of Mathematics, Vol. 151, No. 2, 1991, 257-264
 18. [(with Li Banghe) On the reflection of immersions in Euclidean space](https://www.semanticscholar.org/paper/ON-THE-REFLECTION-OF-IMMERSIONS-IN-EUCLIDEAN-SPACES-Li-Kaiser/690437954d9a018cfc51069210794ec06bbf09a8); Acta Mathematica Sinica, Vol. 11, No. 3, 1991, 257-264
-19. Verschlingungsabbildungen im Euklidischen Raum, PhD thesis University of Siegen, 1989
+19. Verschlingungsabbildungen im Euklidischen Raum, [Zentralblatt review](https://www.zbmath.org/?q=Uwe+Kaiser+Verschlingungsabbildungen); PhD thesis University of Siegen, 1989
 20. [(with Li Banghe) Enumeration of immersions of m-manifolds in (2m-2)-manifolds](https://link.springer.com/chapter/10.1007%2FBFb0081475); in Differential Topology, Proceedings, Siegen 1987, Lecture Notes in Mathematics Vol. 1350, Springer Verlag 1988, 171-188
 21. [Immersions in codimension 1 up to regular homotopy](https://link.springer.com/article/10.1007/BF01194027); Archiv der Mathematik, Vol. 51, 1998, 371-377
 
