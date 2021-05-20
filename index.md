@@ -36,9 +36,11 @@ I am also giving regularly talks in Boise State's Department of Mathematics [TAT
 17. [Link homotopy in R^3 and S^3](https://projecteuclid.org/journals/pacific-journal-of-mathematics/volume-151/issue-2/Link-homotopy-in-bf-R3-and-S3/pjm/1102637081.full); Pacific Journal of Mathematics, Vol. 151, No. 2, 1991, 257-264![image](https://user-images.githubusercontent.com/77305085/119021245-6fdfcd80-b95c-11eb-8319-307bd2a03a65.png)
 18. [(with Li Banghe) On the reflection of immersions in Euclidean space](https://www.semanticscholar.org/paper/ON-THE-REFLECTION-OF-IMMERSIONS-IN-EUCLIDEAN-SPACES-Li-Kaiser/690437954d9a018cfc51069210794ec06bbf09a8); Acta Mathematica Sinica, Vol. 11, No. 3, 1991, 257-264
 19. Verschlingungsabbildungen im Euklidischen Raum, PhD thesis University of Siegen, 1989
-20. [(with Li Banghe) Enumeration of immersions of m-manifolds in (2m-2)-manifolds](https://link.springer.com/chapter/10.1007%2FBFb0081475); in Differential Topology, Proceedings, Siegen 1987, Lecture Notes in Mathematics Vol. 1350, Springer Verlag 1988, 171-188![image](https://user-images.githubusercontent.com/77305085/119021344-8e45c900-b95c-11eb-84b4-73a420445a86.png)
+20. [(with Li Banghe) Enumeration of immersions of m-manifolds in (2m-2)-manifolds](https://link.springer.com/chapter/10.1007%2FBFb0081475); in Differential Topology, Proceedings, Siegen 1987, Lecture Notes in Mathematics Vol. 1350, Springer Verlag 1988, 171-188
 21. [Immersions in codimension 1 up to regular homotopy](https://link.springer.com/article/10.1007/BF01194027); Archiv der Mathematik, Vol. 51, 1998, 371-377![image](https://user-images.githubusercontent.com/77305085/119021370-97cf3100-b95c-11eb-8311-96eacb8b758f.png)
 
+STEM Education research: [(with Louis S. Nadelson, Sharon McGuire, Kimberly Hardy, Kisten A. Davis, Arvin Farid and Yu-Chang Hsu) Am I a STEM Professional?The Developments and Results of a Measure of STEM student Professional Identity]
+(https://www.tandfonline.com/doi/full/10.1080/03075079.2015.1070819); Studies in Higher Education, July 2015
 
 
 ## ArXiv & MATH Reviews
