@@ -1,4 +1,4 @@
-# Uwe Kaiser's research page
+
 
 **My address:** Department of Mathematics, Boise State University, 1900 University Drive, Boise, Idaho 83725
 
